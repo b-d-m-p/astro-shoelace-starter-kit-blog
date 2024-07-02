@@ -19,11 +19,13 @@ The demo components are:
   - sl-menu
   - sl-menu-item
 
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
+
 ## Installation
 
 
 ```sh
-git clone https://github.com/b-d-m-p/astro-shoelace.git
+git clone https://github.com/b-d-m-p/astro-shoelace-starter-kit-blog.git
 ```
 
 Clone, add more Shoelace components and have fun!
