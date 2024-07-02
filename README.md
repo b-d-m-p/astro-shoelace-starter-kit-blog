@@ -19,7 +19,7 @@ The demo components are:
   - sl-menu
   - sl-menu-item
 
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/b-d-m-p/astro-shoelace-starter-kit-blog)
 
 ## Installation
 
